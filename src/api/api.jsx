@@ -1,0 +1,1 @@
+export const BackendAPI = "http://localhost:4000/api"
